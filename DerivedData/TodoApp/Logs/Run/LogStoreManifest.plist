@@ -5,6 +5,143 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>367EA4A2-D8B6-4C56-9D7D-12499DF75360</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>367EA4A2-D8B6-4C56-9D7D-12499DF75360.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TodoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TodoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TodoApp</string>
+			<key>timeStartedRecording</key>
+			<real>665677044.58036005</real>
+			<key>timeStoppedRecording</key>
+			<real>665677076.01307404</real>
+			<key>title</key>
+			<string>Run TodoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>367EA4A2-D8B6-4C56-9D7D-12499DF75360</string>
+		</dict>
+		<key>5101CBD4-03E8-4364-8EB2-98DACCDD8BCF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5101CBD4-03E8-4364-8EB2-98DACCDD8BCF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TodoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TodoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TodoApp</string>
+			<key>timeStartedRecording</key>
+			<real>665673929.96210301</real>
+			<key>timeStoppedRecording</key>
+			<real>665674060.08202505</real>
+			<key>title</key>
+			<string>Run TodoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5101CBD4-03E8-4364-8EB2-98DACCDD8BCF</string>
+		</dict>
+		<key>65B43420-F739-47A7-9509-DB5BFE854563</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>65B43420-F739-47A7-9509-DB5BFE854563.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TodoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TodoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TodoApp</string>
+			<key>timeStartedRecording</key>
+			<real>665675769.16535103</real>
+			<key>timeStoppedRecording</key>
+			<real>665675957.16722298</real>
+			<key>title</key>
+			<string>Run TodoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>65B43420-F739-47A7-9509-DB5BFE854563</string>
+		</dict>
+		<key>6B25BD50-DFCD-4CB2-898E-D58B825CB81B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6B25BD50-DFCD-4CB2-898E-D58B825CB81B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TodoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TodoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TodoApp</string>
+			<key>timeStartedRecording</key>
+			<real>665675958.60093701</real>
+			<key>timeStoppedRecording</key>
+			<real>665677042.73906398</real>
+			<key>title</key>
+			<string>Run TodoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>6B25BD50-DFCD-4CB2-898E-D58B825CB81B</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

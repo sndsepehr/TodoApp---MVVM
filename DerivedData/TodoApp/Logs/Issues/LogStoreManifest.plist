@@ -5,7 +5,36 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>9E5AC9F1-028A-4048-A61E-5B9E2603EC5D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>9E5AC9F1-028A-4048-A61E-5B9E2603EC5D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>TodoApp-gxuapqlxgmmldpgkdmfexgjekkik</string>
+			<key>timeStartedRecording</key>
+			<real>665678232.33172905</real>
+			<key>timeStoppedRecording</key>
+			<real>665678234.87669504</real>
+			<key>title</key>
+			<string>Build target TodoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>9E5AC9F1-028A-4048-A61E-5B9E2603EC5D</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
