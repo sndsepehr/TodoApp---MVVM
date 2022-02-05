@@ -41,9 +41,19 @@ struct ListView: View {
 
 struct ListView_Previews: PreviewProvider {
     static var previews: some View {
+        Group {
         NavigationView {
             ListView()
         }
         .environmentObject(TodoViewModel())
+        .colorScheme(.dark)
+.previewInterfaceOrientation(.portrait)
+            
+            NavigationView {
+                ListView()
+            }
+            .environmentObject(TodoViewModel())
+            .colorScheme(.light)
+        }
     }
 }
